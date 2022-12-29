@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-utils-text",
+  "version": "0.0.2",
+  "description": "utils/text.js: A module bundled by ac-bundle-module.",
+  "main": "utils/text.js",
+  "scripts": {
+    "start": "node utils/text.js"
+  },
+  "keywords": [
+    "utils/text.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-utils-text/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
